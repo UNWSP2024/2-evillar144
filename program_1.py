@@ -1,6 +1,11 @@
 def personal_information():
-    print('...')
+    #Name
+    print("Name - ELi")
+    #Address, City, State, Zip Code
+    print("Address - 945 SW. Wilson Drive East Elmhurst, NY 11369")
+    #Number
+    print("Number - 612-474-9230")
+    #Major
+    print("Major- N/A")
 
-
-# Line which calls the above function.
 personal_information()
